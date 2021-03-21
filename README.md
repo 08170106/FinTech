@@ -1,15 +1,15 @@
 FinTech
 ===
 
-作業1
+HW1: What do you think of cloud computing?
 ---
-作業2
+HW2: Build a Website using Amazon EC2 with LAMP
 ---
-作業3
+HW3: Build a Website using Amazon S3(Versioning) and AWS Amplify
 ---
-作業4
+HW4: Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 ---
-作業5
+HW5: Create a Database using Amazon RDS or Amazon DynamoDB
 ---
-作業6
+HW6: Create a Docker Container or Build your own Project Services
 ---

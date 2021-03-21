@@ -2,8 +2,9 @@ FinTech
 ===
 
 HW1: What do you think of cloud computing?
->[HW1](https://github.com/08170106/FinTech/blob/main/HW1)
+
 ---
+>[HW1](https://github.com/08170106/FinTech/blob/main/HW1)
 
 HW2: Build a Website using Amazon EC2 with LAMP
 ---

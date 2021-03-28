@@ -8,8 +8,8 @@ HW1: What do you think of cloud computing?
 
 HW2: Build a Website using Amazon EC2 with LAMP
 ---
->[HW2](https://github.com/08170106/FinTech/blob/main/HW2)
->ONE
+>[HW2](https://youtu.be/5AMBaaYeLZ4)
+>DONE
 
 HW3: Build a Website using Amazon S3(Versioning) and AWS Amplify
 ---

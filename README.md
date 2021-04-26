@@ -18,7 +18,7 @@ HW3: Build a Website using Amazon S3(Versioning) and AWS Amplify
 
 HW4: Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 ---
->[HW4](https://youtu.be/XxkeP9tVBb0)
+>[HW4](https://youtu.be/RllQoN7lsl8)
 >DONE
 
 HW5: Create a Database using Amazon RDS or Amazon DynamoDB

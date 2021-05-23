@@ -28,5 +28,5 @@ HW5: Create a Database using Amazon RDS or Amazon DynamoDB
 
 HW6: Create a Docker Container or Build your own Project Services
 ---
->[HW6](https://www.youtube.com/watch?v=sM43uSu9SPg)
+>[HW6](https://youtu.be/QRtxmHpf0pg)
 >DONE
